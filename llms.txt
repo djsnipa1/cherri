@@ -1,0 +1,45 @@
+# https://cherrilang.org llms.txt
+
+- [Cherri Programming Language](https://cherrilang.org/): Cherri is a programming language for Siri Shortcuts.
+- [Cherri Compiler Docs](https://cherrilang.org/compiler/): Comprehensive guide to Cherri programming language compiler.
+- [Cherri Language Documentation](https://cherrilang.org/language/): Comprehensive guide to the Cherri programming language features.
+- [Cherri Shortcuts FAQ](https://cherrilang.org/faq.html): Explore Cherri, a unique macOS Shortcuts programming language.
+- [vCard Creation Guide](https://cherrilang.org/language/vcards): Create vCards easily with built-in action examples.
+- [Cherri Installation Guide](https://cherrilang.org/install.html): Instructions for installing Cherri on various platforms.
+- [Shortcut to Cherri](https://cherrilang.org/decompilation.html): Easily convert Shortcuts to Cherri code with decompilation.
+- [Donate to CherriLang](https://cherrilang.org/donate.html): Support CherriLang through donations, merch, or sponsorships.
+- [Cherri File Includes](https://cherrilang.org/language/includes): Learn how to include Cherri files effectively and safely.
+- [Cherri Branding Resources](https://cherrilang.org/brand.html): Resources for using Cherri branding and developer badges.
+- [Raw Actions Guide](https://cherrilang.org/language/raw-actions): Learn to define and parse raw actions in Cherri.
+- [Cherri Language Comments](https://cherrilang.org/language/comments.html): Learn how to use comments in Cherri language code.
+- [Shortcut Definitions](https://cherrilang.org/language/definitions.html): Defines Shortcut aspects like icon, color, input types.
+- [Cherri Language Menus](https://cherrilang.org/language/menus.html): Learn to create menus and lists in Cherri language.
+- [Defining Actions Guide](https://cherrilang.org/compiler/actions.html): Learn to define actions with parameters and functions.
+- [Cherri Copy-Paste](https://cherrilang.org/language/copy-paste): Learn to use Cherri's copy-paste actions effectively.
+- [Input File Parsing](https://cherrilang.org/compiler/parsing.html): Comprehensive guide on parsing input files character by character.
+- [Cherri Language Types](https://cherrilang.org/language/types.html): Explore various data types and their declarations in Cherri.
+- [Signing Shortcuts Guide](https://cherrilang.org/compiler/signing.html): Learn how to sign Shortcuts for Apple platforms.
+- [Cherri Actions Overview](https://cherrilang.org/language/actions.html): Explore Cherri's simplified actions for easier programming.
+- [Importing Non-Standard Actions](https://cherrilang.org/language/imports.html): Learn how to import non-standard action libraries in Cherri.
+- [Property List Generation](https://cherrilang.org/compiler/plistgen.html): Generate .plist files using Cherri's compiler tools.
+- [Cherri Metadata Overview](https://cherrilang.org/compiler/metadata.html): Learn about metadata validation and definitions in Cherri.
+- [Cherri Standard Library](https://cherrilang.org/language/standard/stdlib.html): Explore Cherri's Standard Library for custom actions and scripting.
+- [Scripting Actions Overview](https://cherrilang.org/language/standard/scripting.html): Explore various scripting actions for app control and automation.
+- [Control Flow Basics](https://cherrilang.org/language/control-flow.html): Learn control flow concepts like loops and conditions.
+- [Document Management Guide](https://cherrilang.org/language/standard/documents.html): Comprehensive guide for managing documents and files.
+- [Web Actions Overview](https://cherrilang.org/language/standard/web.html): Explore web actions like articles, Giphy, RSS, and more.
+- [Contact Management](https://cherrilang.org/language/standard/contacts.html): Manage and organize contacts with various actions available.
+- [Variables and Constants](https://cherrilang.org/language/variables-constants-globals): Learn about variables, constants, and globals in Cherri.
+- [Media Actions Overview](https://cherrilang.org/language/standard/media.html): Explore various media actions including audio, video, and image editing.
+- [Calendar Management](https://cherrilang.org/language/standard/calendar.html): Comprehensive guide for managing calendars, events, and reminders.
+- [Import Questions Guide](https://cherrilang.org/language/import-questions.html): Learn how to define and use import questions in Cherri.
+- [Cherri Programming Tips](https://cherrilang.org/language/best-practices.html): Best practices for efficient Cherri programming and shortcuts.
+- [Cherri Custom Actions](https://cherrilang.org/language/custom-actions.html): Learn to define and use custom actions in Cherri.
+- [Location Actions](https://cherrilang.org/language/standard/location.html): Explore location actions like weather, maps, and addresses.
+- [Shortcut File Format](https://cherrilang.org/compiler/file-format.html): Explore the Shortcut file format and its structure.
+- [Cherri Built-in Actions](https://cherrilang.org/language/standard/builtin.html): Explore Cherri's built-in actions for easier shortcuts.
+- [Sharing Actions Overview](https://cherrilang.org/language/standard/sharing.html): Explore various sharing actions like clipboard and messaging.
+- [Define Shortcut Actions](https://cherrilang.org/language/define-actions.html): Learn to define custom Shortcut actions in Cherri.
+- [Cherri Language Apps](https://cherrilang.org/language/standard/apps.html): Explore Cherri language apps and their specific actions.
+- [Non-Standard Actions Guide](https://cherrilang.org/compiler/non-std-actions.html): Learn to define and use non-standard actions in Cherri.
+- [Settings App Overview](https://cherrilang.org/language/standard/apps/settings.html): Explore settings for accessibility and auto-answer features.
